@@ -1,2 +1,2 @@
 # awesome-visual-document-retrieval
-This is a "awesome" document retrieval with powerful VLMs paper survey repo.
+This is an "awesome" document retrieval with powerful VLMs paper survey repo. Details will be released!
